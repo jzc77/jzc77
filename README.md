@@ -1,9 +1,9 @@
 ### Hi, thank you for stopping by! 👋
 
 ## I am currently:
-- Searching for junior developer roles
+- Searching for junior Java developer roles
 - Further developing my Java and React skills by building projects
-- Studying for the AWS Solutions Architect Associate exam
+- Studying for the AWS Cloud Practioner exam and AWS Certified Developer Associate exam
 - Learning about data structures and algorithms by leetcoding in Java
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jzc77&theme=dark&hide_border=false)<br/>
