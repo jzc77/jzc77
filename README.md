@@ -1,7 +1,7 @@
 ### Hi, thank you for stopping by! 👋
 
 ## I am currently:
-- Searching for junior Java developer roles
+- Searching for Java developer roles
 - Further developing my Java and React skills by building projects
 - Studying for the AWS Cloud Practioner exam and AWS Certified Developer Associate exam
 - Learning about data structures and algorithms by leetcoding in Java
